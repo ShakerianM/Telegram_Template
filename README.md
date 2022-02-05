@@ -1,1 +1,3 @@
-# anonymous_telbot
+# Telegram Template Bot
+
+## How to Run
