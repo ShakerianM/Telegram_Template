@@ -1,4 +1,3 @@
-from random import random
 from types import SimpleNamespace
 
 from src.utils.keyboards import create_keyboard
